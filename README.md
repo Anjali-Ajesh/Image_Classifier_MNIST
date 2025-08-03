@@ -22,10 +22,7 @@ A Python project that builds, trains, and evaluates a Convolutional Neural Netwo
 To run this project, you will need Python and pip installed.
 
 1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/your-username/image-classifier.git](https://github.com/your-username/image-classifier.git)
-    cd image-classifier
-    ```
+    
 
 2.  **Install Dependencies:**
     It's recommended to use a virtual environment to manage dependencies.
